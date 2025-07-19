@@ -108,7 +108,6 @@
 .stat-card p {
   font-size: 20px;
   color: #000000;
-<<<<<<< HEAD
 }
 .testimonials {
   text-align: center;
@@ -184,10 +183,6 @@
   gap: 40px;
   justify-content: space-between;
   align-items: flex-start;
-}
-
-.contact-left {
-  flex: 1;
 }
 
 .contact-left h2 {
@@ -277,6 +272,4 @@
 .write{
     font-size: 18px;
 }
-=======
 }
->>>>>>> 587434fa6a4619ea88808cfe8ee8cee41ca4954d
